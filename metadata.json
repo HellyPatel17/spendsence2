@@ -1,0 +1,6 @@
+{
+  "name": "SpendSense",
+  "description": "A comprehensive personal finance and expense tracking mobile application with real-time insights, budget management, and savings goals. Optimized for Android using Capacitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["mobile", "android"]
+}
